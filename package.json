@@ -8,6 +8,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.67.0"
-  }
+    "request": "^2.81.0"
+  },
+  "description": "$ git clone https://github.com/epoch/node-weather-cli     $ cd node-weather-cli     $ npm install",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atlas-Quest/node-weather-cli.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Atlas-Quest/node-weather-cli/issues"
+  },
+  "homepage": "https://github.com/Atlas-Quest/node-weather-cli#readme"
 }
